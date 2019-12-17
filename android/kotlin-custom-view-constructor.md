@@ -70,3 +70,9 @@ class CustomView : View {
 ```
 
 Note that this is usually irelevant when creating a custom view from scratch, since you will be defining the default styling for your view.
+
+---
+
+**References**
+
+- [**Do not always trust @JvmOverloads** *by Mateusz Młodawski at 2018-11-15*](https://medium.com/@mmlodawski/https-medium-com-mmlodawski-do-not-always-trust-jvmoverloads-5251f1ad2cfe)
